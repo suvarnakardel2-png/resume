@@ -69,11 +69,11 @@ h1,h2,h3,h4 {
 }
 .profile-pic{
     position: absolute;
-    top: 9mm;
+    top: 7mm;
     left: 37mm;
     transform: translateX(-50%);
     z-index: 2;
-    margin-bottom: 8mm;
+    margin-bottom: 6mm;
 }
 .profile-pic img {
     width: 200px;
@@ -85,8 +85,8 @@ h1,h2,h3,h4 {
 }
 
 .left-black h2 {
-    margin-bottom: 6%;
-    margin-top: 8%;
+    margin-bottom: 3%;
+    margin-top: 4%;
     display: inline-block;
     border-bottom: 3px solid transparent;
     border-image: linear-gradient(to right, #feb47f , #ff7e5f);
@@ -148,4 +148,5 @@ h1{
     text-align: center;
     font-family: fantasy;
 }
+
 
